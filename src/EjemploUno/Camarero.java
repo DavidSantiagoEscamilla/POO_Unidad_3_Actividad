@@ -1,3 +1,5 @@
-public class Camarero {
+package EjemploUno;
+
+public interface Camarero {
 
 }
