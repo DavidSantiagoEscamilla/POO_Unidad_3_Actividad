@@ -1,3 +1,5 @@
-public class Cocinero {
+package EjemploUno;
 
+public class Cocinero {
+    void cocinar();
 }
