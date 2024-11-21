@@ -1,5 +1,5 @@
 package EjemploUno;
 
-public interface Cocinero {
-
-}
+ public interface Cocinero {
+   void cocinar();
+ }
